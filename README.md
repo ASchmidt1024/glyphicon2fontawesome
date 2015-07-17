@@ -5,6 +5,7 @@ glyphicon.less with content from font awesome
 The following Glyphicons are unique and no font awesome icon matched
 (see file end)
 
+```
 .glyphicon-floppy-saved           { &:before { content: "\e173"; } }
 .glyphicon-floppy-remove          { &:before { content: "\e174"; } }
 .glyphicon-floppy-save            { &:before { content: "\e175"; } }
@@ -56,3 +57,4 @@ The following Glyphicons are unique and no font awesome icon matched
 .glyphicon-object-align-left      { &:before { content: "\e247"; } }
 .glyphicon-object-align-vertical  { &:before { content: "\e248"; } }
 .glyphicon-object-align-right     { &:before { content: "\e249"; } }
+```
