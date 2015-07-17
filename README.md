@@ -2,6 +2,8 @@
 
 glyphicon.less with content from font awesome
 
+Why? In some cases you can't replace glyphicons with font awesome the normal way, e.g. the classes of glyphicons are still in use and should be replaced with classes from fa. And if this is not possible this file can be used. Muah.
+
 **the font files from font awesome should be in same folder as glyphicons**
 
 The following Glyphicons are unique and no font awesome icon matched
