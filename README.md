@@ -1,9 +1,8 @@
 # glyphicon2fontawesome
 
 glyphicon.less with content from font awesome
-
 --
-! the font files from font awesome should be in same folder as glyphicons !
+** the font files from font awesome should be in same folder as glyphicons **
 --
 
 The following Glyphicons are unique and no font awesome icon matched
